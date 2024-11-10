@@ -1,5 +1,4 @@
 # Game Prototype
----
 ## to-do
 **bold** items are pressing. do these first.
 *italic* items are NOT pressing. unimportant at this point in time
