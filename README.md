@@ -4,7 +4,10 @@
 *italic* items are NOT pressing. unimportant at this point in time
 
 - Inventory
-	+ basic implementation
+	+ **basic implementation**
+		* JSON item dictionary
+		* Use scene nodes for items (? maybe make class to load item from dict... but also maybe scene nodes themselves could be downloaded as a dictionary which could avoid the need for the JSON in the first place.)
+		* Nested items with attachment points (like attachment types... like a "picatinny female/male" node to know what can be attached to what.
 	+ *gui*
 	+ *weight*
 	+ *capacity/item size*
